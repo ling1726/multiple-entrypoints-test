@@ -1,0 +1,19 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "\\.[jt]sx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0"
+  },
+  "dependencies": {}
+}
