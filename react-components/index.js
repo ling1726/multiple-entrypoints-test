@@ -1,3 +1,1 @@
-export const BetaComponent = () => {
-  console.log('BETA');
-};
+export * from '@ling/react-button';

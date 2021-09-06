@@ -1,5 +1,5 @@
 {
-  "name": "@ling/react-components",
+  "name": "@ling/react-dropdown",
   "version": "1.0.0",
   "description": "",
   "main": "index.cjs.js",
@@ -8,9 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@ling/react-button": "^1.0.0",
-    "@ling/react-dropdown": "^1.0.0"
-  }
+  "license": "ISC"
 }

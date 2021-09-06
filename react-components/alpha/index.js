@@ -1,3 +1,1 @@
-export const AlphaComponent = () => {
-  console.log('ALPHA ESM');
-};
+export * from '@ling/react-dropdown';

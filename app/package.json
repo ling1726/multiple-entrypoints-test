@@ -15,5 +15,7 @@
     "babel-jest": "^27.1.0",
     "jest": "^27.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@ling/react-components": "^1.0.0"
+  }
 }
